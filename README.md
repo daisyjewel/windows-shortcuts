@@ -1,11 +1,22 @@
-# keyboard-warrior-guide
-essential keyboard shortcuts and terminal commands for IT professionals
-| Shortcut | Action |
+### ⌨️ Shortcuts Library
+
+<details>
+<summary>📂 <b>O</b> - Open & Navigation (Click to expand)</summary>
+
+| Command | Shortcut |
 | :--- | :--- |
-| `Win` + `E` | Open File Explorer |
-| `Win` + `D` | Show/Hide Desktop |
-| `Win` + `V` | Open Clipboard History (A lifesaver!) |
-| `Win` + `Shift` + `S` | Snipping Tool (Capture screen) |
-| `Win` + `Ctrl` + `D` | Create a new virtual desktop |
-| `Win` + `Ctrl` + `Left/Right` | Switch between virtual desktops |
-| `Alt` + `Space` | PowerToys Run / Search (If installed) |
+| **O**pen File Explorer | `Win + E` |
+| **O**pen Terminal | `Win + X, A` |
+| **O**pen Settings | `Win + I` |
+
+</details>
+
+<details>
+<summary>📋 <b>C</b> - Clipboard & Copy (Click to expand)</summary>
+
+| Command | Shortcut |
+| :--- | :--- |
+| **C**lipboard History | `Win + V` |
+| **C**opy Line Down | `Shift + Alt + ↓` |
+
+</details>
