@@ -1,5 +1,11 @@
 # 🪟 Windows Keyboard Master: Pure OS Edition
 
+> [!TIP]
+> ### ⌨️ Live Search Mode
+> To find a shortcut instantly without scrolling:
+> 1. Press the letter **`t`** on your keyboard.
+> 2. Type your command (e.g., "open" or "settings").
+> 3. GitHub will filter the shortcuts for you!
 > [!IMPORTANT]
 > ### ⌨️ User Preference
 > Optimize this guide for your screen?
