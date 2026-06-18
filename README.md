@@ -35,10 +35,12 @@
 | Action | Shortcut |
 | :--- | :--- |
 | **C**lose Active Window | `Alt` + `F4` |
-| **C**lose Current Tab | `Ctrl` + `W` |
-| **C**opy to Clipboard | `Ctrl` + `C` |
 
----
+GAK TAU
+
+| Action | Shortcut |
+| :--- | :---|
+| **F12** | INSPECT |
 
 ### 🖥️ S - System & Snap
 *Control your workspace layout.*
