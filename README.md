@@ -16,7 +16,7 @@
 
 ## 🛠️ Shortcut Library
 
-### 📂 O - Open & Navigation
+### 📂 O - 
 *Use these to launch apps or folders instantly.*
 
 | Action | Shortcut |
@@ -29,7 +29,7 @@
 
 ---
 
-### 📋 C - Close & Copy
+### 📋 C - 
 *Manage your windows and data.*
 
 | Action | Shortcut |
