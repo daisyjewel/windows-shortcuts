@@ -53,7 +53,7 @@ GAK TAU
 
 ---
 
-### 🔒 L - Lock & Layout
+### 🔒 L 
 | Action | Shortcut |
 | :--- | :--- |
 | **L**ock PC | `Win` + `L` |
@@ -61,7 +61,7 @@ GAK TAU
 
 ---
 
-### 📋 V - View & Clipboard
+### 📋 V 
 | Action | Shortcut |
 | :--- | :--- |
 | **V**iew Clipboard History | `Win` + `V` |
