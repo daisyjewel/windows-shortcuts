@@ -16,7 +16,7 @@
 
 ## 🛠️ Shortcut Library
 
-### 📂 O 
+###  O 
 *Use these to launch apps or folders instantly.*
 
 | Action | Shortcut |
@@ -29,7 +29,7 @@
 
 ---
 
-### 📋 C 
+###  C 
 *Manage your windows and data.*
 
 | Action | Shortcut |
