@@ -42,7 +42,7 @@ GAK TAU
 | :--- | :---|
 | **F12** | INSPECT |
 
-### 🖥️ S 
+###  S 
 *Control your workspace layout.*
 
 | Action | Shortcut |
@@ -53,7 +53,7 @@ GAK TAU
 
 ---
 
-### 🔒 L 
+###  L 
 | Action | Shortcut |
 | :--- | :--- |
 | **L**ock PC | `Win` + `L` |
