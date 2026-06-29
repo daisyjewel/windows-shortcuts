@@ -61,7 +61,7 @@ GAK TAU
 
 ---
 
-### 📋 V 
+###  V 
 | Action | Shortcut |
 | :--- | :--- |
 | **V**iew Clipboard History | `Win` + `V` |
