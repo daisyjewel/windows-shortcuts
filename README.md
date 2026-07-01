@@ -30,7 +30,6 @@
 ---
 
 ###  C 
-*Manage your windows and data.*
 
 | Action | Shortcut |
 | :--- | :--- |
@@ -43,7 +42,6 @@ GAK TAU
 | **F12** | INSPECT |
 
 ###  S 
-*Control your workspace layout.*
 
 | Action | Shortcut |
 | :--- | :--- |
